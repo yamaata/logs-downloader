@@ -1,0 +1,9 @@
+# pip
+requirements.txt
+
+# generate files
+config/*.txt
+temp/*.log
+
+# IDE config
+.idea/
